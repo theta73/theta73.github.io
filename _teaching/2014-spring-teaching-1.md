@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Public Economics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Advanced Master Course"
+permalink: /teaching/2024-fall-teaching-1
+venue: "University of Bonn, Department of Economics"
+date: 2024-11-02
+location: "Bonn, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate level course on public finance (in macro).

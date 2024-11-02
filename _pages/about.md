@@ -14,5 +14,5 @@ I work on macro/public/labor, economics of education/human capital, demographic 
 
 On this website you can find more information about me and my research - I'll be happy if you get in touch!
 
-My email: ipopova@uni-bonn.de
+My email: ipopova@uni-bonn.de.
 

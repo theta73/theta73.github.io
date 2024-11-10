@@ -1,5 +1,5 @@
 ---
-title: "The Long-Term Distributional and Welfare Effects of Covid-19 School Closures"
+title: "The Long-Term Distributional and Welfare Effects of Covid-19 School Closures (with Nicola Fuchs-Schuendeln, Dirk Krueger and Alexander Ludwig)"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Using a structural life-cycle model, we quantify the heterogeneous impact of school closures during the corona crisis on children affected at different ages and coming from households with different parental characteristics. In the model, public investment through schooling is combined with parental time and resource investments in the production of child human capital at different stages in the children’s development process. We quantitatively characterise the long-term consequences from a COVID-19-induced loss of schooling, and find average losses in the present discounted value of lifetime earnings of the affected children of ⁠, as well as welfare losses equivalent to about  of permanent consumption. Because of self-productivity in the human capital production function, younger children are hurt more by the school closures than older children. The negative impact of the crisis on children’s welfare is especially severe for those with parents with low educational attainment and low assets.'

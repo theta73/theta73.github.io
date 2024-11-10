@@ -21,7 +21,7 @@ repository               : "theta73/theta73.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Irina Popova"
   pronouns         : # example: "she/her"  
   bio              : "PhD from Goethe Uni Frankfurt Macro & Public Economics"

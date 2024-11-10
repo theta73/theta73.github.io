@@ -1,0 +1,12 @@
+---
+title: "The Long-Term Distributional and Welfare Effects of Covid-19 School Closures"
+collection: publications
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'Using a structural life-cycle model, we quantify the heterogeneous impact of school closures during the corona crisis on children affected at different ages and coming from households with different parental characteristics. In the model, public investment through schooling is combined with parental time and resource investments in the production of child human capital at different stages in the children’s development process. We quantitatively characterise the long-term consequences from a COVID-19-induced loss of schooling, and find average losses in the present discounted value of lifetime earnings of the affected children of ⁠, as well as welfare losses equivalent to about  of permanent consumption. Because of self-productivity in the human capital production function, younger children are hurt more by the school closures than older children. The negative impact of the crisis on children’s welfare is especially severe for those with parents with low educational attainment and low assets.'
+date: 2024-02-17
+venue: 'The Economic Journal, Volume 132, Issue 645, July 2022, Pages 1647–1683'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

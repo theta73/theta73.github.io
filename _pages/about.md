@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 I am a junior faculty member at the University of Bonn, Institute of Macroeconomics and Econometrics.  
+
 I received my PhD in Economics from Goethe-University Frankfurt in 2022\
-(committee: Alexander Ludwig, Dirk Krueger and Nicola Fuchs-Schuendeln).   
+(committee: Alexander Ludwig, Dirk Krueger and Nicola Fuchs-Schuendeln).\
+During my PhD I spent a year visiting the University of Pennsylvania.
 
 I spent the academic year 2022-2023 at the National Bureau of Economic Research (NBER) as a post-doc fellow.
 

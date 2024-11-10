@@ -1,5 +1,5 @@
 ---
-title: "Shaping inequality and intergenerational persistence of poverty: Free college or better schools?" (with Dirk Krueger and Alexander Ludwig)
+title: "Shaping inequality and intergenerational persistence of poverty: Free college or better schools? (with Dirk Krueger and Alexander Ludwig)" 
 co-authors: Dirk Krueger, Alexander Ludwig
 collection: publications
 permalink: /publication/free-college
